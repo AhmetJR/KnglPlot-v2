@@ -2,7 +2,7 @@ Main:
   prefix: '&6Sunucu&bIsmi &c| '
   debug: true
   admins:
-    - 'AhmetJR0'
+    - 'AhmetJR'
     - 'Eray'
 
 gameendtime: 5  #minute
