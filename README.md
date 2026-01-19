@@ -20,23 +20,23 @@
 
 ## 📺 Video Vitrini (Proje Kullanım Alanları)
 
-Bu eklenti, aşağıdaki video konseptlerinin teknik altyüsını oluşturmaktadır. Tıklayarak izleyebilirsiniz:
+Bu eklenti, aşağıdaki video konseptlerinin teknik altyapısını oluşturmaktadır. Kapaklara tıklayarak izleyebilirsiniz:
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <h3>💰 250₺ vs 25.000₺ Çizim!</h3>
-        <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-          <img src="https://img.youtube.com/vi/VIDEO_ID_1/mqdefault.jpg" width="300" alt="Video 1 Kapak">
+        <a href="https://www.youtube.com/watch?v=93cmFr-swtk">
+          <img src="https://img.youtube.com/vi/93cmFr-swtk/maxresdefault.jpg" width="300" alt="250TL vs 25000TL Video Kapak">
         </a>
         <br>
         <i>Arsalar fiyatlandırılıyor...</i>
       </td>
       <td align="center">
         <h3>🏗️ 100 Kişiyle İnşaat!</h3>
-        <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-          <img src="https://img.youtube.com/vi/VIDEO_ID_2/mqdefault.jpg" width="300" alt="Video 2 Kapak">
+        <a href="https://www.youtube.com/watch?v=MyjmmSZQ6BA">
+          <img src="https://img.youtube.com/vi/MyjmmSZQ6BA/maxresdefault.jpg" width="300" alt="100 Kişi Video Kapak">
         </a>
         <br>
         <i>Kaos ve eğlence bir arada!</i>
