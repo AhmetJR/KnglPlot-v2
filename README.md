@@ -12,7 +12,7 @@
   <b>AhmetJR</b> tarafından özel olarak geliştirilmiş gelişmiş arsa yönetim sistemi.
 </p>
 
-[YouTube Kanalı](https://www.youtube.com/@ErayCanOzkenar) • [Discord Sunucusu](https://discord.gg/seninlinkin)
+[YouTube Kanalı](https://www.youtube.com/@AhmetJRexe) • [Discord Sunucusu](https://discord.gg/7KxxQrabnZ)
 
 </div>
 
