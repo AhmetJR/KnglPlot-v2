@@ -1,0 +1,479 @@
+Main:
+  prefix: '&6Sunucu&bIsmi &c| '
+  debug: true
+  admins:
+    - 'AhmetJR0'
+    - 'Eray'
+
+gameendtime: 5  #minute
+gamehasbeenstart: false;
+
+yasakliblocklar:
+  - REDSTONE
+  - REDSTONE_TORCH
+  - REDSTONE_WIRE
+  - REDSTONE_BLOCK
+  - REDSTONE_LAMP
+  - REDSTONE_ORE
+  - DETECTOR_RAIL
+  - PISTON
+  - STICKY_PISTON
+  - BOAT
+  - OAK_BOAT
+  - OAK_CHEST_BOAT
+  - SPRUCE_BOAT
+  - SPRUCE_CHEST_BOAT
+  - BIRCH_BOAT
+  - BIRCH_CHEST_BOAT
+  - JUNGLE_BOAT
+  - JUNGLE_CHEST_BOAT
+  - ACACIA_BOAT
+  - ACACIA_CHEST_BOAT
+  - DARK_OAK_BOAT
+  - DARK_OAK_CHEST_BOAT
+  - CHERRY_BOAT
+  - CHERRY_CHEST_BOAT
+  - BAMBOO_RAFT
+  - HOPPER
+  - OBSERVER
+  - BOAT
+  - ACTIVATOR_RAIL
+  - POWERED_RAIL
+  - RAIL
+  - DISPENSER
+  - DROPPER
+  - HOPPER
+  - MINECART
+  - CHEST_MINECART
+  - FURNACE_MINECART
+  - HOPPER_MINECART
+  - TNT_MINECART
+  - COMMAND_BLOCK_MINECART
+  - TNT
+  - SCULK
+  - SCULK_CATALYST
+  - SCULK_SENSOR
+  - SCULK_SHRIEKER
+  - SCULK_VEIN
+  - END_PORTAL_FRAME
+
+
+
+
+Messageteam:
+  browncords:
+    pos1:
+      x: 351
+      y: -4
+      z: -304
+    pos2:
+      x: -272
+      y: 255
+      z: -255
+  pinkcords:
+    pos1:
+      x: 351
+      y: -4
+      z: -239
+    pos2:
+      x: -272
+      y: 255
+      z: -192
+  yellowcords:
+    pos1:
+      x: 351
+      y: -4
+      z: -175
+    pos2:
+      x: -272
+      y: 47
+      z: -128
+  magentacords:
+    pos1:
+      x: 351
+      y: -4
+      z: -111
+    pos2:
+      x: -272
+      y: 255
+      z: -64
+  lightbluecords:
+    pos1:
+      x: 351
+      y: -4
+      z: -47
+    pos2:
+      x: -272
+      y: 255
+      z: 0
+  purplecords:
+    pos1:
+      x: 351
+      y: -4
+      z: 17
+    pos2:
+      x: -272
+      y: 255
+      z: 64
+  cyancords:
+    pos1:
+      x: 351
+      y: -4
+      z: 81
+    pos2:
+      x: -272
+      y: 255
+      z: 128
+  orangecords:
+    pos1:
+      x: 351
+      y: -4
+      z: 145
+    pos2:
+      x: -272
+      y: 255
+      z: 192
+  redcords:
+    pos1:
+      x: 351
+      y: -4
+      z: 209
+    pos2:
+      x: -272
+      y: 255
+      z: 255
+  limecords:
+    pos1:
+      x: 351
+      y: -4
+      z: 273
+    pos2:
+      x: -272
+      y: 255
+      z: 319
+
+Time:
+  second: 'saniye'
+  minute: 'dakika'
+  hour: 'saat'
+  day: 'gün'
+  week: 'hafta'
+  month: 'ay'
+  year: 'yıl'
+
+Numbers:
+  decimal: true # 281.123...
+  formats:
+    enabled: true
+    thousand: "K"
+    million: "M"
+    billion: "B"
+    trillion: "T"
+    quadrillion: "Q"
+
+Sound:
+  success: 'ENTITY_PLAYER_LEVELUP'
+  fail: 'ENTITY_VILLAGER_HURT'
+  reload: 'ENTITY_PLAYER_LEVELUP'
+
+Plots:
+  '1':
+    pos1: '-272;-1;-304;world;100;100'
+    pos2: '-225;-1;-257;world;100;100'
+  '2':
+    pos1: '-272;-1;-240;world;100;100'
+    pos2: '-225;-1;-193;world;100;100'
+  '3':
+    pos1: '-272;-1;-176;world;100;100'
+    pos2: '-225;-1;-129;world;100;100'
+  '4':
+    pos1: '-272;-1;-112;world;100;100'
+    pos2: '-225;-1;-65;world;100;100'
+  '5':
+    pos1: '-272;-1;-48;world;100;100'
+    pos2: '-225;-1;-1;world;100;100'
+  '6':
+    pos1: '-272;-1;16;world;100;100'
+    pos2: '-225;-1;63;world;100;100'
+  '7':
+    pos1: '-272;-1;80;world;100;100'
+    pos2: '-225;-1;127;world;100;100'
+  '8':
+    pos1: '-272;-1;144;world;100;100'
+    pos2: '-225;-1;191;world;100;100'
+  '9':
+    pos1: '-272;-1;208;world;100;100'
+    pos2: '-225;-1;255;world;100;100'
+  '10':
+    pos1: '-272;-1;272;world;100;100'
+    pos2: '-225;-1;319;world;100;100'
+  '11':
+    pos1: '-208;-1;-304;world;100;100'
+    pos2: '-161;-1;-257;world;100;100'
+  '12':
+    pos1: '-208;-1;-240;world;100;100'
+    pos2: '-161;-1;-193;world;100;100'
+  '13':
+    pos1: '-208;-1;-176;world;100;100'
+    pos2: '-161;-1;-129;world;100;100'
+  '14':
+    pos1: '-208;-1;-112;world;100;100'
+    pos2: '-161;-1;-65;world;100;100'
+  '15':
+    pos1: '-208;-1;-48;world;100;100'
+    pos2: '-161;-1;-1;world;100;100'
+  '16':
+    pos1: '-208;-1;16;world;100;100'
+    pos2: '-161;-1;63;world;100;100'
+  '17':
+    pos1: '-208;-1;80;world;100;100'
+    pos2: '-161;-1;127;world;100;100'
+  '18':
+    pos1: '-208;-1;144;world;100;100'
+    pos2: '-161;-1;191;world;100;100'
+  '19':
+    pos1: '-208;-1;208;world;100;100'
+    pos2: '-161;-1;255;world;100;100'
+  '20':
+    pos1: '-208;-1;272;world;100;100'
+    pos2: '-161;-1;319;world;100;100'
+  '21':
+    pos1: '-144;-1;-304;world;100;100'
+    pos2: '-97;-1;-257;world;100;100'
+  '22':
+    pos1: '-144;-1;-240;world;100;100'
+    pos2: '-97;-1;-193;world;100;100'
+  '23':
+    pos1: '-144;-1;-176;world;100;100'
+    pos2: '-97;-1;-129;world;100;100'
+  '24':
+    pos1: '-144;-1;-112;world;100;100'
+    pos2: '-97;-1;-65;world;100;100'
+  '25':
+    pos1: '-144;-1;-48;world;100;100'
+    pos2: '-97;-1;-1;world;100;100'
+  '26':
+    pos1: '-144;-1;16;world;100;100'
+    pos2: '-97;-1;63;world;100;100'
+  '27':
+    pos1: '-144;-1;80;world;100;100'
+    pos2: '-97;-1;127;world;100;100'
+  '28':
+    pos1: '-144;-1;144;world;100;100'
+    pos2: '-97;-1;191;world;100;100'
+  '29':
+    pos1: '-144;-1;208;world;100;100'
+    pos2: '-97;-1;255;world;100;100'
+  '30':
+    pos1: '-144;-1;272;world;100;100'
+    pos2: '-97;-1;319;world;100;100'
+  '31':
+    pos1: '-80;-1;-304;world;100;100'
+    pos2: '-33;-1;-257;world;100;100'
+  '32':
+    pos1: '-80;-1;-240;world;100;100'
+    pos2: '-33;-1;-193;world;100;100'
+  '33':
+    pos1: '-80;-1;-176;world;100;100'
+    pos2: '-33;-1;-129;world;100;100'
+  '34':
+    pos1: '-80;-1;-112;world;100;100'
+    pos2: '-33;-1;-65;world;100;100'
+  '35':
+    pos1: '-80;-1;-48;world;100;100'
+    pos2: '-33;-1;-1;world;100;100'
+  '36':
+    pos1: '-80;-1;16;world;100;100'
+    pos2: '-33;-1;63;world;100;100'
+  '37':
+    pos1: '-80;-1;80;world;100;100'
+    pos2: '-33;-1;127;world;100;100'
+  '38':
+    pos1: '-80;-1;144;world;100;100'
+    pos2: '-33;-1;191;world;100;100'
+  '39':
+    pos1: '-80;-1;208;world;100;100'
+    pos2: '-33;-1;255;world;100;100'
+  '40':
+    pos1: '-80;-1;272;world;100;100'
+    pos2: '-33;-1;319;world;100;100'
+  '41':
+    pos1: '-16;-1;-304;world;100;100'
+    pos2: '31;-1;-257;world;100;100'
+  '42':
+    pos1: '-16;-1;-240;world;100;100'
+    pos2: '31;-1;-193;world;100;100'
+  '43':
+    pos1: '-16;-1;-176;world;100;100'
+    pos2: '31;-1;-129;world;100;100'
+  '44':
+    pos1: '-16;-1;-112;world;100;100'
+    pos2: '31;-1;-65;world;100;100'
+  '45':
+    pos1: '-16;-1;-48;world;100;100'
+    pos2: '31;-1;-1;world;100;100'
+  '46':
+    pos1: '-16;-1;16;world;100;100'
+    pos2: '31;-1;63;world;100;100'
+  '47':
+    pos1: '-16;-1;80;world;100;100'
+    pos2: '31;-1;127;world;100;100'
+  '48':
+    pos1: '-16;-1;144;world;100;100'
+    pos2: '31;-1;191;world;100;100'
+  '49':
+    pos1: '-16;-1;208;world;100;100'
+    pos2: '31;-1;255;world;100;100'
+  '50':
+    pos1: '-16;-1;272;world;100;100'
+    pos2: '31;-1;319;world;100;100'
+  '51':
+    pos1: '48;-1;-304;world;100;100'
+    pos2: '95;-1;-257;world;100;100'
+  '52':
+    pos1: '48;-1;-240;world;100;100'
+    pos2: '95;-1;-193;world;100;100'
+  '53':
+    pos1: '48;-1;-176;world;100;100'
+    pos2: '95;-1;-129;world;100;100'
+  '54':
+    pos1: '48;-1;-112;world;100;100'
+    pos2: '95;-1;-65;world;100;100'
+  '55':
+    pos1: '48;-1;-48;world;100;100'
+    pos2: '95;-1;-1;world;100;100'
+  '56':
+    pos1: '48;-1;16;world;100;100'
+    pos2: '95;-1;63;world;100;100'
+  '57':
+    pos1: '48;-1;80;world;100;100'
+    pos2: '95;-1;127;world;100;100'
+  '58':
+    pos1: '48;-1;144;world;100;100'
+    pos2: '95;-1;191;world;100;100'
+  '59':
+    pos1: '48;-1;208;world;100;100'
+    pos2: '95;-1;255;world;100;100'
+  '60':
+    pos1: '48;-1;272;world;100;100'
+    pos2: '95;-1;319;world;100;100'
+  '61':
+    pos1: '112;-1;-304;world;100;100'
+    pos2: '159;-1;-257;world;100;100'
+  '62':
+    pos1: '112;-1;-240;world;100;100'
+    pos2: '159;-1;-193;world;100;100'
+  '63':
+    pos1: '112;-1;-176;world;100;100'
+    pos2: '159;-1;-129;world;100;100'
+  '64':
+    pos1: '112;-1;-112;world;100;100'
+    pos2: '159;-1;-65;world;100;100'
+  '65':
+    pos1: '112;-1;-48;world;100;100'
+    pos2: '159;-1;-1;world;100;100'
+  '66':
+    pos1: '112;-1;16;world;100;100'
+    pos2: '159;-1;63;world;100;100'
+  '67':
+    pos1: '112;-1;80;world;100;100'
+    pos2: '159;-1;127;world;100;100'
+  '68':
+    pos1: '112;-1;144;world;100;100'
+    pos2: '159;-1;191;world;100;100'
+  '69':
+    pos1: '112;-1;208;world;100;100'
+    pos2: '159;-1;255;world;100;100'
+  '70':
+    pos1: '112;-1;272;world;100;100'
+    pos2: '159;-1;319;world;100;100'
+  '71':
+    pos1: '176;-1;-304;world;100;100'
+    pos2: '223;-1;-257;world;100;100'
+  '72':
+    pos1: '176;-1;-240;world;100;100'
+    pos2: '223;-1;-193;world;100;100'
+  '73':
+    pos1: '176;-1;-176;world;100;100'
+    pos2: '223;-1;-129;world;100;100'
+  '74':
+    pos1: '176;-1;-112;world;100;100'
+    pos2: '223;-1;-65;world;100;100'
+  '75':
+    pos1: '176;-1;-48;world;100;100'
+    pos2: '223;-1;-1;world;100;100'
+  '76':
+    pos1: '176;-1;16;world;100;100'
+    pos2: '223;-1;63;world;100;100'
+  '77':
+    pos1: '176;-1;80;world;100;100'
+    pos2: '223;-1;127;world;100;100'
+  '78':
+    pos1: '176;-1;144;world;100;100'
+    pos2: '223;-1;191;world;100;100'
+  '79':
+    pos1: '176;-1;208;world;100;100'
+    pos2: '223;-1;255;world;100;100'
+  '80':
+    pos1: '176;-1;272;world;100;100'
+    pos2: '223;-1;319;world;100;100'
+  '81':
+    pos1: '240;-1;-304;world;100;100'
+    pos2: '287;-1;-257;world;100;100'
+  '82':
+    pos1: '240;-1;-240;world;100;100'
+    pos2: '287;-1;-193;world;100;100'
+  '83':
+    pos1: '240;-1;-176;world;100;100'
+    pos2: '287;-1;-129;world;100;100'
+  '84':
+    pos1: '240;-1;-112;world;100;100'
+    pos2: '287;-1;-65;world;100;100'
+  '85':
+    pos1: '240;-1;-48;world;100;100'
+    pos2: '287;-1;-1;world;100;100'
+  '86':
+    pos1: '240;-1;16;world;100;100'
+    pos2: '287;-1;63;world;100;100'
+  '87':
+    pos1: '240;-1;80;world;100;100'
+    pos2: '287;-1;127;world;100;100'
+  '88':
+    pos1: '240;-1;144;world;100;100'
+    pos2: '287;-1;191;world;100;100'
+  '89':
+    pos1: '240;-1;208;world;100;100'
+    pos2: '287;-1;255;world;100;100'
+  '90':
+    pos1: '240;-1;272;world;100;100'
+    pos2: '287;-1;319;world;100;100'
+  '91':
+    pos1: '304;-1;-304;world;100;100'
+    pos2: '351;-1;-257;world;100;100'
+  '92':
+    pos1: '304;-1;-240;world;100;100'
+    pos2: '351;-1;-193;world;100;100'
+  '93':
+    pos1: '304;-1;-176;world;100;100'
+    pos2: '351;-1;-129;world;100;100'
+  '94':
+    pos1: '304;-1;-112;world;100;100'
+    pos2: '351;-1;-65;world;100;100'
+  '95':
+    pos1: '304;-1;-48;world;100;100'
+    pos2: '351;-1;-1;world;100;100'
+  '96':
+    pos1: '304;-1;16;world;100;100'
+    pos2: '351;-1;63;world;100;100'
+  '97':
+    pos1: '304;-1;80;world;100;100'
+    pos2: '351;-1;127;world;100;100'
+  '98':
+    pos1: '304;-1;144;world;100;100'
+    pos2: '351;-1;191;world;100;100'
+  '99':
+    pos1: '304;-1;208;world;100;100'
+    pos2: '351;-1;255;world;100;100'
+  '100':
+    pos1: '304;-1;272;world;100;100'
+    pos2: '351;-1;319;world;100;100'

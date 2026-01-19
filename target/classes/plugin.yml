@@ -1,0 +1,4 @@
+name: KnglPlots
+version: 1.0.0
+main: me.kngl.plots.KnglPlotsPlugin
+api-version: 1.13
